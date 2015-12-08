@@ -1,0 +1,4 @@
+TraditionalDroid.MainActivity, TraditionalDroid;md5ca65b86bc83b892bea8305f7ab68c896.MainActivity
+TraditionalDroid.MainActivity, TraditionalDroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ca65b86bc83b892bea8305f7ab68c896.MainActivity
+TraditionalDroid.MainActivity;md5ca65b86bc83b892bea8305f7ab68c896.MainActivity
+traditionaldroid.MainActivity;md5ca65b86bc83b892bea8305f7ab68c896.MainActivity
