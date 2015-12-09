@@ -1,8 +1,0 @@
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/TraditionalDroid.dll
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/System.dll
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/System.Xml.dll
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/Mono.Android.dll
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/System.Core.dll
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/mscorlib.dll
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/System.Runtime.Serialization.dll
-/Users/felipemomm/Projects/Traditional/TraditionalDroid/obj/Debug/assemblies/System.ServiceModel.Internals.dll
