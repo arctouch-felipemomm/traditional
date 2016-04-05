@@ -16,6 +16,10 @@ namespace Traditional
 	{
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
+		UIButton btnChangeBackground { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
 		UIButton btnSum { get; set; }
 
 		[Outlet]
@@ -30,12 +34,20 @@ namespace Traditional
 		[GeneratedCode ("iOS Designer", "1.0")]
 		UITextField txtNumber2 { get; set; }
 
+		[Action ("btnChangeBackground_TouchInside:")]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		partial void btnChangeBackground_TouchInside (UIButton sender);
+
 		[Action ("BtnSum_TouchUpInside:")]
 		[GeneratedCode ("iOS Designer", "1.0")]
 		partial void BtnSum_TouchUpInside (UIButton sender);
 
 		void ReleaseDesignerOutlets ()
 		{
+			if (btnChangeBackground != null) {
+				btnChangeBackground.Dispose ();
+				btnChangeBackground = null;
+			}
 			if (btnSum != null) {
 				btnSum.Dispose ();
 				btnSum = null;

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traditional.Droid", "Tradit
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Tradicional.Core", "Tradicional.Core\Tradicional.Core.shproj", "{17B9FA3F-14F4-4134-BF67-3F9DEB93623C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfColorPickerBinding", "InfColorPickerBinding\InfColorPickerBinding\InfColorPickerBinding.csproj", "{B73917D6-5393-45BB-BD81-F68C3811FA1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -23,6 +25,14 @@ Global
 		{018E89B7-CA8C-4FDD-9CFF-5AB674E982E4}.Release|iPhone.Build.0 = Release|Any CPU
 		{018E89B7-CA8C-4FDD-9CFF-5AB674E982E4}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{018E89B7-CA8C-4FDD-9CFF-5AB674E982E4}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Release|iPhone.Build.0 = Release|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{B73917D6-5393-45BB-BD81-F68C3811FA1C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{E26044DB-023D-4680-9ACB-66D7B9657319}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{E26044DB-023D-4680-9ACB-66D7B9657319}.Debug|iPhone.Build.0 = Debug|iPhone
 		{E26044DB-023D-4680-9ACB-66D7B9657319}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator

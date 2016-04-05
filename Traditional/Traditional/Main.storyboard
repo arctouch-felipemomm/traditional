@@ -43,6 +43,16 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="15" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="20" y="241" width="262" height="30"/>
+                                <state key="normal" title="Change Background">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="BtnSum_TouchUpInside:" destination="17" id="16" eventType="touchUpInside"/>
+                                    <action selector="btnChangeBackground_TouchInside:" destination="BYZ-38-t0r" id="18" eventType="touchUpInside"/>
+                                </connections>
+                            </button>
                         </subviews>
                     </view>
                     <connections>
@@ -50,6 +60,7 @@
                         <outlet property="txtNumber2" destination="4" id="name-outlet-4"/>
                         <outlet property="lblResult" destination="10" id="name-outlet-10"/>
                         <outlet property="btnSum" destination="5" id="name-outlet-5"/>
+                        <outlet property="btnChangeBackground" destination="15" id="name-outlet-15"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

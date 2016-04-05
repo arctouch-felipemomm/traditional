@@ -1,0 +1,10 @@
+/Users/felipemomm/Projects/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/felipemomm/Projects/InfColorPickerBinding/InfColorPickerBinding/bin/Debug/InfColorPickerBinding.dll.mdb
+/Users/felipemomm/Projects/InfColorPickerBinding/InfColorPickerBinding/bin/Debug/InfColorPickerBinding.dll
+/Users/felipemomm/Projects/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/InfColorPickerBinding.dll
+/Users/felipemomm/Projects/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/InfColorPickerBinding.dll.mdb
+/Users/felipemomm/ArcTouch/git/traditional/traditional/Traditional/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/felipemomm/ArcTouch/git/traditional/traditional/Traditional/InfColorPickerBinding/InfColorPickerBinding/bin/Debug/InfColorPickerBinding.dll.mdb
+/Users/felipemomm/ArcTouch/git/traditional/traditional/Traditional/InfColorPickerBinding/InfColorPickerBinding/bin/Debug/InfColorPickerBinding.dll
+/Users/felipemomm/ArcTouch/git/traditional/traditional/Traditional/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/InfColorPickerBinding.dll
+/Users/felipemomm/ArcTouch/git/traditional/traditional/Traditional/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/InfColorPickerBinding.dll.mdb
